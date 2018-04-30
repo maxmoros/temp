@@ -6,7 +6,7 @@
 #    By: mmoros <marvin@42.fr>                      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2018/01/25 15:34:53 by mmoros            #+#    #+#              #
-#    Updated: 2018/04/30 00:19:53 by mmoros           ###   ########.fr        #
+#    Updated: 2018/04/30 00:21:00 by mmoros           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -22,6 +22,7 @@ SRC =	ft_printf.c			\
 		pf_bigf2.c			\
 		libft/ft_memalloc.c	\
 		libft/ft_strlen_c.c	\
+		libft/ft_strlen.c	\
 		libft/ft_strncpy.c	\
 		libft/ft_putstr.c	\
 		libft/ft_putchar.c	\
